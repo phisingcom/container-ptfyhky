@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "phisingcom",
+  "repo": "container-ptfyhky",
+  "name": "phisingcom",
+  "email": "keagan.dewitte@gmail.com",
+}
